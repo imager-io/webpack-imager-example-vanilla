@@ -1,6 +1,6 @@
 {
   "name": "webpack-imager-example-vanilla",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/imager-io/webpack-imager-example-vanilla"
@@ -10,7 +10,8 @@
   "keywords": [
     "image",
     "optimization",
-    "compression"
+    "compression",
+    "webpack"
   ],
   "author": "Colbyn Wadman",
   "license": "ISC",
