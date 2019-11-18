@@ -1,6 +1,6 @@
 # About
 
-This makes use of Webpack and Imager without any ‘non-standard’ Webpack plugins.
+This makes use of [Webpack](https://webpack.js.org) and [Imager](https://github.com/imager-io/imager) without any ‘non-standard’ Webpack plugins.
 
 # Setup
 ```shell
