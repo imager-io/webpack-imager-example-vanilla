@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/imager-io/imager-nodejs-example"
+    "url": "https://github.com/imager-io/webpack-imager-example-vanilla"
   },
-  "homepage": "https://github.com/imager-io/imager-nodejs-example",
+  "homepage": "https://github.com/imager-io/webpack-imager-example-vanilla",
   "description": "Brute force image optimization example for Webpack.",
   "keywords": [
     "image",
