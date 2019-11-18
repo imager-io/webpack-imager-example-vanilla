@@ -1,0 +1,23 @@
+{
+  "name": "webpack-imager-example-vanilla",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imager-io/imager-nodejs-example"
+  },
+  "homepage": "https://github.com/imager-io/imager-nodejs-example",
+  "description": "Brute force image optimization example for Webpack.",
+  "keywords": [
+    "image",
+    "optimization",
+    "compression"
+  ],
+  "author": "Colbyn Wadman",
+  "license": "ISC",
+  "devDependencies": {
+    "copy-webpack-plugin": "^5.0.5",
+    "imager-io": "^0.1.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
